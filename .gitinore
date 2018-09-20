@@ -1,8 +1,0 @@
-target
-*.iml
-/.idea/
-bin
-.gradle
-.classpath
-.project
-/.settings/
